@@ -107,21 +107,19 @@ Para detener el sistema utiliza el siguiente comando:
 ## Diagramas
 
 ![alt text][diagrama1]
+[diagrama1]: https://github.com/Khelthal/docker-microservicios/blob/main/docs/Vista%20din%C3%A1mica%20del%20requerimiento%20de%20usuario%20a)%20.drawio.png?raw=true "Diagrama 1"
 
 ### Vista dinámica de obtención de pagos.
 
 ![alt text][diagrama2]
+[diagrama2]: https://github.com/Khelthal/docker-microservicios/blob/main/docs/Vista%20dinamica%20R2.png?raw=true "Diagrama 2"
 
 ### Vista dinámica de envío de notificaciones.
 
 ![alt text][diagrama3]
-
-### Vista dinámica de env
-
-[diagrama1]: https://github.com/Khelthal/docker-microservicios/blob/main/docs/Vista%20din%C3%A1mica%20del%20requerimiento%20de%20usuario%20a)%20.drawio.png?raw=true "Diagrama 1"
-[diagrama2]: https://github.com/Khelthal/docker-microservicios/blob/main/docs/Vista%20dinamica%20R2.png?raw=true "Diagrama 2"
 [diagrama3]: https://github.com/Khelthal/docker-microservicios/blob/main/docs/Envio%20poliza%20diagrama.png?raw=true "Diagrama 3"
 
+### Vista dinámica de env
 
 ## Preguntas Frecuentes
 
