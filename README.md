@@ -108,19 +108,27 @@ Para detener el sistema utiliza el siguiente comando:
 
 ![alt text](https://github.com/Khelthal/docker-microservicios/blob/main/docs/VistaEstatica.png?raw=true)
 
-## Vista estática
+## Vista estática.
+
+
 
 ![alt text](https://github.com/Khelthal/docker-microservicios/blob/main/docs/vista_dinamica_r1.png?raw=true)
 
 ### Vista dinámica de obtención de pagos.
 
+
+
 ![alt text](https://github.com/Khelthal/docker-microservicios/blob/main/docs/vista_dinamica_r2.png?raw=true)
 
 ### Vista dinámica de envío de notificaciones.
 
+
+
 ![alt text](https://github.com/Khelthal/docker-microservicios/blob/main/docs/vista_dinamica_r3.png?raw=true)
 
-### Vista dinámica de env
+### Vista dinámica de envío de documentos.
+
+
 
 ## Preguntas Frecuentes
 
