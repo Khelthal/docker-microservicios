@@ -117,3 +117,7 @@ Por supuesto, la herramienta Docker es vital para la ejecución de este sistema.
 - Perla Velasco
 - Yonathan Martinez
 - Jorge Solis
+- Elías Emiliano Beltrán González
+- Román Guzmán Valles
+- Juventino Aguilar Correa
+- Jorge Luis Díaz Serda
