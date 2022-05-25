@@ -110,9 +110,9 @@ Para detener el sistema utiliza el siguiente comando:
 ![alt text][diagrama2]
 ![alt text][diagrama3]
 
-[diagrama1]: www.google.com
-[diagrama2]: www.google.com
-[diagrama3]: www.google.com
+[diagrama1]: https://github.com/Khelthal/docker-microservicios/blob/main/docs/Envio%20poliza%20diagrama.png?raw=true "Diagrama 1"
+[diagrama2]: https://github.com/Khelthal/docker-microservicios/blob/main/docs/Vista%20dinamica%20R2.png?raw=true "Diagrama 2"
+[diagrama3]: https://github.com/Khelthal/docker-microservicios/blob/main/docs/Envio%20poliza%20diagrama.png?raw=true "Diagrama 3"
 
 
 ## Preguntas Frecuentes
