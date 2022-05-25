@@ -2,6 +2,13 @@
 
 <!-- [TODO] agregar descripción --> 
 
+## Nota
+
+Este repositorio fue creado para corregir algunos errores que contenía el repositorio original donde
+desarrollamos el proyecto. Este repositorio funciona correctamente.
+
+[El repositorio original (contiene un error) se encuentra aqui](https://github.com/AsuJuve/Microservicios_Global-Surance-System)
+
 ## Estructura del proyecto
 
 Este repositorio contiene los siguientes directorios y archivos:
@@ -96,6 +103,17 @@ Para detener el sistema utiliza el siguiente comando:
 
 > al ejecutar el sistema se creará una carpeta `volume` donde se guardará la información que se genere en el sistema
 > si deseas reiniciar los datos basta con eliminar dicha carpeta
+
+## Diagramas
+
+![alt text][diagrama1]
+![alt text][diagrama2]
+![alt text][diagrama3]
+
+[diagrama1]: www.google.com
+[diagrama2]: www.google.com
+[diagrama3]: www.google.com
+
 
 ## Preguntas Frecuentes
 
